@@ -21,10 +21,10 @@ Start with
 
 
 ## Rules
-* Any wrong letter guess spends a life.
-* Any wrong word guess spends remove that player from the game.
-* Any right letter guess reveals the guessed letter in the secret word.
-* The first player to right guess the secret word, wins the game.
+* Any letter guessed wrong spends a life.
+* Any word guessed wrong remove that player from the game (play with cautious!).
+* Any letter guessed right reveals that letter in the secret word.
+* The first player to discover the secret word, wins the game.
 * Inactivity will be punished with player losing his turn.
 
 ## Score

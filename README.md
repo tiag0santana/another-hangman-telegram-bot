@@ -1,7 +1,10 @@
 # ANOTHER HANGMAN BOT FOR TELEGRAM
 Yep! Another one...
 
-> THIS DOC NEED A ENGLISH REVISION!!!
+Start with
+> npm install
+
+##THIS DOC NEED A ENGLISH REVISION!!!
 
 ## Sub-projects (progress)
 * Commands
